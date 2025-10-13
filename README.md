@@ -6,4 +6,5 @@ This repo simply has conigurations for cli editors and terminals.
 init.lua    # settings for neovim
 vim.vimrc   # settings for vim
 bashrc.sh   # settings (color-highlighting) for bash terminal
+.gitconfig  # settings for git (e.g. aliases for git commands)
 ```
